@@ -1,0 +1,9 @@
+name: TeamManagement
+version: 1.0
+author: luguco
+main: me.luguco.teammanagement.Main
+
+commands:
+  team:
+    description: Ein Team command
+    usage: /team help
